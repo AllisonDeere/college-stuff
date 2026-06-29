@@ -1,2 +1,6 @@
 https://meet.google.com/cmi-mcaa-sjr :: Google Classroom: igmxwgv6 :: 7:30-9:00 TTH
 ---
+### Course Description
+- Introduces students to the contemporary world, examining multifaceted phenomenon of globalization
+- Using various disciplines of the social sciences; economic, political, technological, and other transformations about the interconnectedness of people and places around the world
+- Provides an overview of various debates in global governance, development, and sustainability
