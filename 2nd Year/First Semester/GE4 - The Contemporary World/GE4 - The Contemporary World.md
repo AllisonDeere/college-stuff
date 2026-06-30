@@ -12,4 +12,12 @@ https://meet.google.com/cmi-mcaa-sjr :: Google Classroom: igmxwgv6 :: 7:30-9:00 
 - Describe emergence of global economic, political, social, and cultural systems
 - Analyze the various drivers of globalization & effects on ordinary people
 - Understand the issues confronting the nation-state
-- 
+
+## Midterm Topics
+- Introduction to [[Globalization]]
+- Structure of [[Globalization]] 
+	- Global Economy & Market Integration
+	- Global Interstate System
+	- Contemporary Global Governance
+- Global Divide - North and South
+- Asian Regionalism
