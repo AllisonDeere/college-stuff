@@ -55,3 +55,4 @@ Exams and Project - 40%
 - Late submissions are only accepted up to 7 days past the original deadline
 - Any work turned in late within that 7-day window automatically receives a **flat 40% deduction** of the total possible score
 - Moodle portal locks completely after day 7, and submissions are no longer possible
+
