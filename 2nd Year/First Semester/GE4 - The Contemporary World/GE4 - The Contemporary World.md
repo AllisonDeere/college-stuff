@@ -7,3 +7,7 @@ https://meet.google.com/cmi-mcaa-sjr :: Google Classroom: igmxwgv6 :: 7:30-9:00 
 - How history led up to globalization
 - We need awareness for what's going on the other countries and global phenomena, bc other countries' bullshit affect us too
 
+### Course Learning Outcomes
+- Distinguish approaches/interpretations to [[globalization]]
+- Describe emergence of global economic, political, social, and cultural systems
+- Analyze the various drivers of globalization
