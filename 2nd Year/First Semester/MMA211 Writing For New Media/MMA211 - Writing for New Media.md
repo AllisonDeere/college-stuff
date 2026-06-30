@@ -49,3 +49,9 @@ Exams and Project - 40%
 		Must be booked a week prior to schedule unless openly stated
 		Consultation form should be filled before schedule
 		Thesis matters are given priorty over other concerns
+
+# Late Submission Policy (MMA Subjects)
+- Deadlines are firm to protect the scaffolding of your progression
+- Late submissions are only accepted up to 7 days past the original deadline
+- Any work turned in late within that 7-day window automatically receives a **flat 40% deduction** of the total possible score
+- Moodle portal locks completely after day 7, and submissions are no longer possible
