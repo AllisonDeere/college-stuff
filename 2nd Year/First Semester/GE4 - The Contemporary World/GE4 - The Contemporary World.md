@@ -6,13 +6,11 @@ https://meet.google.com/cmi-mcaa-sjr :: Google Classroom: igmxwgv6 :: 7:30-9:00 
 - Provides an overview of various debates in global governance, development, and sustainability
 - How history led up to globalization
 - We need awareness for what's going on the other countries and global phenomena, bc other countries' bullshit affect us too
-
 ### Course Learning Outcomes
 - Distinguish approaches/interpretations to [[globalization]]
 - Describe emergence of global economic, political, social, and cultural systems
 - Analyze the various drivers of globalization & effects on ordinary people
 - Understand the issues confronting the nation-state
-
 ## Midterm Topics
 - Introduction to [[Globalization]]
 - Structure of [[Globalization]] 
@@ -31,6 +29,10 @@ https://meet.google.com/cmi-mcaa-sjr :: Google Classroom: igmxwgv6 :: 7:30-9:00 
 - Sustainable Development
 - Global Food Security
 - Global Citizenship (presentation of final output)
-
 ## General Classroom Policies
 - camera, mic and nddu email account 
+## Grading System
+- Quizes 20%
+- Oral/Q&A/Group Discussions - 20%
+- Midterm/Final - 20%
+- Exam - 40%
