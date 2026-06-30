@@ -21,3 +21,13 @@ https://meet.google.com/cmi-mcaa-sjr :: Google Classroom: igmxwgv6 :: 7:30-9:00 
 	- Contemporary Global Governance
 - Global Divide - North and South
 - Asian Regionalism
+## Finals Topics
+- Global Media Culture
+- Globalization of Religion
+- Global Population & Mobility
+	- The Global City
+	- Global Demography
+	- Global Migration
+- Sustainable Development
+- Global Food Security
+- Global Citizenship (presentation of final output)
