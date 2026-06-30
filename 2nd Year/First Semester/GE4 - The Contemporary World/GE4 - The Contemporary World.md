@@ -36,3 +36,6 @@ https://meet.google.com/cmi-mcaa-sjr :: Google Classroom: igmxwgv6 :: 7:30-9:00 
 - Oral/Q&A/Group Discussions - 20%
 - Midterm/Final - 20%
 - Exam - 40%
+
+![[Pasted image 20260630084213.png|697]]
+Group 1: AMO, CUTAMORA, GERAL, PABILLO, SEBALLOS
