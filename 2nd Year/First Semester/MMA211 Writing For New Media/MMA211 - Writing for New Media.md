@@ -1,11 +1,12 @@
-![[Pasted image 20260630104046.png]]
+# Course Description
 
 - Fundamentals of good writing across diverse media genres & platforms
 	- Focusing specifically on non-linear, interactive, and convergent new media 
 		- e.g., blogs, websites, social networking sites, audio, and video
 - Bridges pure textual mechanics w/ visual/multi-modal storytelling that allows students to design strategic content that aligns with modern audience psychology
 - Special emphasis on information literacy, digital media ethics, legal boundaries and current trends
-## Outline
+	- especially responsible integration and usage of artificial intelligence (AI) and future developments in the digital media writing landscape
+# Semester Outline
 
 | WEEK                                    | TOPIC                                           |
 | --------------------------------------- | ----------------------------------------------- |
@@ -26,26 +27,25 @@
 | 15                                      | Intellectual Property & Digital Content Law     |
 | 16                                      | Ethical Frontiers & Generative AI               |
 | **<font color="#2DC26B">FINALS</font>** | **<font color="#2DC26B">FINALS</font>**         |
-## Deliverables/Requirements
-### Midterm Project
+# Deliverables/Requirements
+## Midterm Project
 - ***Multimedia Persona Blog***
 	- At least 9 entries
 	- Optimized by week 8
 	- Any broad set of topics related to MMA
 	- Blog may serve as a professional portfolio/brand
 		- wordpress, blogger, etc.
-### Finals Project
+## Finals Project
 - Socially Relevant Advocacy Video
 	- Maximum of 5 minutes
 	- Must apply principles discussed during the semester
-
-
-
 # Grading System
 Participation/Attendance - 10%
 Exercises - 20%
 Quizzes/Presentations - 30%
 Exams and Project - 40%
-
 # Consultation Hours
-	Open Tuesdays/Thursdays, 1
+	Open Tuesdays/Thursdays, 12:30-14:30
+		Must be booked a week prior to schedule unless openly stated
+		Consultation form should be filled before schedule
+		Thesis matters are given priorty over other concerns
