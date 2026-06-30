@@ -31,3 +31,6 @@ https://meet.google.com/cmi-mcaa-sjr :: Google Classroom: igmxwgv6 :: 7:30-9:00 
 - Sustainable Development
 - Global Food Security
 - Global Citizenship (presentation of final output)
+
+## General Classroom Policies
+- camera, mic and nddu email account 
