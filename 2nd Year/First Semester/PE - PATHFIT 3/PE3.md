@@ -8,3 +8,9 @@ jtaculod@nddu.edu.ph
 - Group Exercise
 - Outdoor and Recreational Activities
 - Dance
+
+## Grading System
+- Attendance/Assignment - 20%
+- Quizzes - 20%
+- Performance Task - 40%
+- Written Exam - 20%
