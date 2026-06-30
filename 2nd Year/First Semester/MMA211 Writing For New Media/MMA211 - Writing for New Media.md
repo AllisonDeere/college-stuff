@@ -1,5 +1,10 @@
 ![[Pasted image 20260630104046.png]]
 
+- Fundamentals of good writing across diverse media genres & platforms
+	- Focusing specifically on non-linear, interactive, and convergent new media 
+		- e.g., blogs, websites, social networking sites, audio, and video
+- Bridges pure textual mechanics w/ visual/multi-modal storytelling that allows students to design strategic content that aligns with modern audience psychology
+- Special emphasis on information literacy, digital media ethics, legal boundaries and current trends
 ## Outline
 
 | WEEK                                    | TOPIC                                           |
@@ -41,3 +46,6 @@ Participation/Attendance - 10%
 Exercises - 20%
 Quizzes/Presentations - 30%
 Exams and Project - 40%
+
+# Consultation Hours
+	Open Tuesdays/Thursdays, 1
