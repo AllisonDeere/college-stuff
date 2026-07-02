@@ -17,4 +17,6 @@
 	- i.e., online shopping, use of software, challenges caused by climate change
 
 ![[Pasted image 20260702081437.png]]
-![[Pasted image 20260702081451.png]]
+![[Pasted image 20260702081451.png]]Global Capitalism Approach
+1. The Global Capitalism Approach views globalization as the worldwide expansion of the capitalist economic system. It argues that globalization is primarily driven by profit, investment, and the expansion of markets across the world. This approach explains globalization as it sees the world as a single interconnected capitalist system.
+2. The main beneficiaries are investors, corporations, governments of economically competitive countries, and consumers. Corporations produce goods where labor and materials are cheapest and sell them worldwide for profit, consumers benefit from lower prices and larger product variety, governments get benefits from increased trade and foreign investment, and investors who own stocks or other such investments earn higher returns from diversifying their portfolio.
