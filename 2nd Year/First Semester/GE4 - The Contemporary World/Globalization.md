@@ -15,3 +15,6 @@
 ### Manfred Steger
 - Globalization is a set of processes that increases connections between people, places and ideas across the world
 	- i.e., online shopping, use of software, challenges caused by climate change
+
+![[Pasted image 20260702081437.png]]
+![[Pasted image 20260702081451.png]]
