@@ -1,0 +1,3 @@
+- Because of the interconnectedness of the world, some cultures are being homogonized
+	- This is a threat to some cultures because of the erasure of singular cultures of communities
+	- 
