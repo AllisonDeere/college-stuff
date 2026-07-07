@@ -1,0 +1,2 @@
+- Puberty begins between 8-14
+	- Tends to happen in females earlier than males
