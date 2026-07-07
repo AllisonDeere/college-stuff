@@ -11,7 +11,12 @@ Creadted by Wallerstein
 	- e.g., US, Japan, Britian
 ### Semi Periphery
 - Powerful countries that want to become core countries
+	- e.g., Brazil, Russia
 ### Periphery
 - Some countries are rich but with developmental constraints
 	- i.e., corruption, institutional/systemic issues
 - Financially dependent countries
+	- e.g., ASEAN countries (except singapore because fuck singapore)
+
+
+Periphery supplies raw materials -> semi-periphery makes finished product -> core countries sell products back to periphery and semi-periphery with a bigger price
