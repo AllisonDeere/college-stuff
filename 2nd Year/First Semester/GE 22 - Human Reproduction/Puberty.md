@@ -43,3 +43,8 @@
 # Puberty in Females
 - First signs are the growth of the testicles, and then the penis
 - Skin that surrounds the testicles are called the scrotum, and becomes thinner and redder
+- Body hair begins to grow, typically on face, chest, armpits, back and pubic area
+- Some people start shaving, which may cause rashes especially on sensitive skin
+- Voice starts to get lower and deeper as the voice box/larynx grows
+- Adam's apple, the visible bump in the throat, may get biggernn         
+- growth spurts                       
