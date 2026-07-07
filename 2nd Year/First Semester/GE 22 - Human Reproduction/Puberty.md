@@ -12,10 +12,27 @@
 	- small pea-sized gland
 	- part of the endocrine system
 	- in charge of making several essential hormones
-		- Gonadotropin hormone-releasing hormone (GnRH)
+			- Gonadotropin hormone-releasing hormone (GnRH)
 		- Luteinizing hormone (LH)
 		- Follicle Stimulating Hormone (FSH)
+			- LH and FSH releases to the testes and ovary for hormonal changes
+				- Then, the testes releases testosterone
+				- Ovary releases estrogen and progesterone
 ### Testosterone
 - Primary sex hormone in males
 - Gives rise to male traits
 - Plays a role in female development to a lesser extent than in males
+### Estrogen
+- Primary sex hormone in females
+- Promotes the growth of breast and tissue
+
+# Chromosomes
+#### XX - Female
+#### XY - Male
+#### XY, Female - Swyer Syndrome
+	Rare condition that afffects 1 in 80,000 births
+		Undeveloped breasts, lack of menstrual periods, taller than peers, hair doesn't grow in pubic or axillary (armpits/legs) areas
+
+# Puberty in Females
+- One of the first signs of puberty in females tends to be a <u>breast bud</u>
+- Periods typically begins 2 years af
