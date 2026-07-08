@@ -5,10 +5,11 @@
 			- From ~380 nanometers to 700 nanometers
 	- Light can travel through space without a medium, moving at 300,000km/s
 	- When these waves interact with objects or enters the eye, it produces the sensation of color based on reflection, absorption, or transmission.
+
 ![[Pasted image 20260708103837.png]]
 ![[Pasted image 20260708105308.png]]
 # Sir Isaac Newton's Darkroom Experiments
-
+#TODO (ignore this part i forgot to take notes)
 
 ![[Pasted image 20260708110048.png]]
 ![[Pasted image 20260708110200.png]]
@@ -69,7 +70,7 @@ Positioned behind the pupil, the lens further focuses light onto the [retina], a
 | L-Cones   | Long Wavelengths   | Red   |
 # Color Perception
 ![[Pasted image 20260708111451.png]]
-## Color Constantcy
+## Color Constancy
 Color constancy is a feature of human vision that allows us to perceive the stable color of an object despite changes in lighting. For example, a yellow banana looks yellow whether it is under the warm, reddish glow of a kitchen light or the cool, blueish light of a sunny day.
 
 ## Color Blindness
