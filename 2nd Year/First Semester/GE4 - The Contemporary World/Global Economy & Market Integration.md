@@ -1,0 +1,2 @@
+- The world today is a neo-liberal market
+	- The free exchange of goods/services with little tariffs 
