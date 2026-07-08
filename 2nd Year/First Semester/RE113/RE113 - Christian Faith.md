@@ -35,7 +35,7 @@ Before Christianity arrived, Filipinos practiced indigenous religions. Many comm
 - Influenced Filipino values such as faith, family unity, and compassion.
 ## History of Protestantism
 ### Protestantism
-- Introduced after the Spanish–American War.
+- Introduced after the Spanish–American War in 1898.
 - Following the Treaty of Paris, Spain ceded the Philippines to the United States.
 - American missionaries arrived in **1899** and established Protestant churches.
 - Different Protestant denominations agreed to divide missionary work into different regions to reduce competition.
