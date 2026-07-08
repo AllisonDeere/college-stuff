@@ -36,4 +36,34 @@ Colored part of the eye, expands or contracts to control the size of the pupil, 
 ## Pupil
 Dark opening at the center of the iris. Shrinks in brightness to reduce light intake and expands in darkness to let in more light.
 ### Lens
-Positioned behiui
+Positioned behind the pupil, the lens further focuses light onto the [retina], adjusting shape depending on the distance of the object being viewed. This process is called [accommodation].
+
+## The Eye's Light Detectors
+### Retina
+#### Rods
+- Sensitive to light and dark (not color)
+- Allows us to see in low light conditions
+- ~120 million rods in each eye
+- Provides peripheral and motion-sensitive vision
+#### Cones
+- Responsible for color vision
+- Functions best in brihgt light
+- ~6 million cones concentrated in the fovea (central part of the retina)
+
+### Cone Types
+#### S-Cones
+ - Short wavelengths (~420nm)
+ - Blue
+#### M-Cones
+- Medium wavelengths (~530nm)
+- Green
+#### L-Cones
+- Long (~560nm)
+- Red
+
+| Cone Type | Sensitive To       | Clor |
+| --------- | ------------------ | ---- |
+| S-Cone    | Short Wavelengths  |      |
+| M-Cones   | Medium Wavelengths |      |
+| L-Cones   | Long Wavelengths   |      |
+# Color Perception
