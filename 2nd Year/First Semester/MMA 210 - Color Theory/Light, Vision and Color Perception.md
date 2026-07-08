@@ -39,6 +39,7 @@ Dark opening at the center of the iris. Shrinks in brightness to reduce light in
 Positioned behind the pupil, the lens further focuses light onto the [retina], adjusting shape depending on the distance of the object being viewed. This process is called [accommodation].
 
 ## The Eye's Light Detectors
+![[Pasted image 20260708111630.png]]
 ### Retina
 #### Rods
 - Sensitive to light and dark (not color)
@@ -67,3 +68,5 @@ Positioned behind the pupil, the lens further focuses light onto the [retina], a
 | M-Cones   | Medium Wavelengths |      |
 | L-Cones   | Long Wavelengths   |      |
 # Color Perception
+![[Pasted image 20260708111451.png]]
+## Color Consatncy
