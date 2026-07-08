@@ -11,3 +11,20 @@
 	- Global Financial Markets
 	- Technology and Connectivity
 	- Global Financial Markets
+### Importance
+- Promotes Economic growth by expanding markets
+- Creates employment through international business
+- Encourages innovation by sharing tech and knowledge
+- Strengthens economies around countries
+- Provides consumers with a plethora of goods and services around the globe
+### Challenges
+- Unequal distribution of wealth
+- Economic crises can spread quickly from one country to another
+- Dependence on global supply chains
+- Environmental impacts 
+- Trade disputes can affect global stability
+
+## Trade
+- The action of buying or selling goods and services between two parties
+- The global exchange of goods, services, capital and data across international borders
+
