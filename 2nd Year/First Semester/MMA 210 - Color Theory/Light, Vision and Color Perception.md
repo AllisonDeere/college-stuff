@@ -62,11 +62,15 @@ Positioned behind the pupil, the lens further focuses light onto the [retina], a
 - Long (~560nm)
 - Red
 
-| Cone Type | Sensitive To       | Clor |
-| --------- | ------------------ | ---- |
-| S-Cone    | Short Wavelengths  |      |
-| M-Cones   | Medium Wavelengths |      |
-| L-Cones   | Long Wavelengths   |      |
+| Cone Type | Sensitive To       | Color |
+| --------- | ------------------ | ----- |
+| S-Cone    | Short Wavelengths  | Blue  |
+| M-Cones   | Medium Wavelengths | Green |
+| L-Cones   | Long Wavelengths   | Red   |
 # Color Perception
 ![[Pasted image 20260708111451.png]]
-## Color Consatncy
+## Color Constantcy
+Color constancy is a feature of human vision that allows us to perceive the stable color of an object despite changes in lighting. For example, a yellow banana looks yellow whether it is under the warm, reddish glow of a kitchen light or the cool, blueish light of a sunny day.
+
+## Color Blindness
+![[Pasted image 20260708111933.png]]
