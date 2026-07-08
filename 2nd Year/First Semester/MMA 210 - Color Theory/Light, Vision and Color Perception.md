@@ -18,8 +18,22 @@
 ## Crest
 Highest point of the wave. Represents max positive displacement from the wave's rest position.
 ## Trough
-Lowest point of the wave. Opposite of [Crest]
+Lowest point of the wave. Represents max negative displacement. *Opposite of [Crest].*
 ## Wavelength
 The distance between two successive crests or troughs. Represented by lambda. 
 ## Amplitude
-The height from the rest to a crest or trough. Reflects the inte
+The height from the rest to a crest or trough. Reflects the intensity or brightness of the wave or loudness for sounmd.
+## Frequency (f)
+The number of wave cycles per second. Measured in hertz (Hz). Directly tied to [wavelength] and [energy].
+## Rest Position (Equilibrium)
+The central axis of the wave, position the medium would be in if there were no wave.
+
+# Parts of the Eye Involved in Vision
+## Cornea
+Eye's transparent, dome-shaped outer layer. Bends (refracts) incoming light to help it enter the eye properly.
+## Iris
+Colored part of the eye, expands or contracts to control the size of the pupil, regulating how much light actually enters the eye. In cameras, this is the aperture.
+## Pupil
+Dark opening at the center of the iris. Shrinks in brightness to reduce light intake and expands in darkness to let in more light.
+### Lens
+Positioned behiui
