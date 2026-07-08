@@ -8,3 +8,18 @@
 ![[Pasted image 20260708103837.png]]
 ![[Pasted image 20260708105308.png]]
 # Sir Isaac Newton's Darkroom Experiments
+
+
+![[Pasted image 20260708110048.png]]
+![[Pasted image 20260708110200.png]]
+
+
+# Parts of an Electromagnetic Wave
+## Crest
+Highest point of the wave. Represents max positive displacement from the wave's rest position.
+## Trough
+Lowest point of the wave. Opposite of [Crest]
+## Wavelength
+The distance between two successive crests or troughs. Represented by lambda. 
+## Amplitude
+The height from the rest to a crest or trough. Reflects the inte
