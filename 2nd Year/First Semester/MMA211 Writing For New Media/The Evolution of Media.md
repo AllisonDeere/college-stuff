@@ -18,4 +18,14 @@
 - The power of steam and machines allowed the mass production of books and newspapers
 	- This area deeply cemented *linearity*, training human brains to digest stories sequentially, front to back, and in the West, from left to right.
 - *Fixity*
+## Four Industrial Revolutions
+- Steam -> Electricity & Mass Production -> Electronics & Robotics -> Internet & Connectivity
+## Mass Broadcast: The Electronic Age
+- 20th century invented the **transistor**, pushing humanity into the Electronic Age
+- Long-distance communication became increasingly efficient through transistor radios, TV networks, and massive mainframe computers.
+- Traditional media layout in this era was entirely static, split between broadcast media (tv, radio) and print media (newspapers, magazines)
+
+This era was defined by a strictly one-way communication flow: large media corps pushed uniform content out to a passive, mass audience. Furthermore, this info had a limited shelf life. Content can't be accessed or is at least hard to find if you missed a broadcast or lost yesterday's paper.
+
+This era unified the public, because everyone consumed the exact same corporate broadcasts, it did so at the expense of greater cultural conformity.
 # What is "Media"? (Mcluhan)
