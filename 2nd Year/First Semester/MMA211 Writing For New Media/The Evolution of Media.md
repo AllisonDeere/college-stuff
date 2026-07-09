@@ -10,6 +10,12 @@
 - A tiny clay token meant a small measure of grain,  while a cylinder represented an animal.
 	- These primitive, abstract symbols were the early genesis of writing.
 ## Pre-Industrial Age
-- Painting on cave
-
+- Painting on cave walls, pressing cuneiform into mesopotamian clay tablets, and writing on Egyptian papyrus plants.
+- Around 2000 BC, a phonetic system emerged in Egypt that would be the "great-grandmother" of the Roman alphabet we use today (*Proto-Sinaitic script*)
+- *Non-fixity*
+## Industrial Age
+- The Gutenberg Printing press 
+- The power of steam and machines allowed the mass production of books and newspapers
+	- This area deeply cemented *linearity*, training human brains to digest stories sequentially, front to back, and in the West, from left to right.
+- *Fixity*
 # What is "Media"? (Mcluhan)
