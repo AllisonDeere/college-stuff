@@ -28,3 +28,8 @@
 - The action of buying or selling goods and services between two parties
 - The global exchange of goods, services, capital and data across international borders
 
+# History of Economic Globalization
+- Silk Roads
+- Spice Routes
+- Age of Discovery
+- First wave of globalization
