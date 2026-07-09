@@ -27,5 +27,9 @@
 
 This era was defined by a strictly one-way communication flow: large media corps pushed uniform content out to a passive, mass audience. Furthermore, this info had a limited shelf life. Content can't be accessed or is at least hard to find if you missed a broadcast or lost yesterday's paper.
 
-This era unified the public, because everyone consumed the exact same corporate broadcasts, it did so at the expense of greater cultural conformity.
+This era unified the public, but because everyone consumed the exact same corporate broadcasts, it did so at the expense of greater cultural conformity.
+## The Digital Age: Birth of Social Networks
+- Digital media landscape quickly evolved from simple web browsing and text forums into a highly visible network of human connections.
+- This foundation was laid in the late 1990s when platforms like SixDegrees (1997) introduced the blueprint of modern social media: creating a user profile and listing friend networks.
+- Early 2000s saw this scale rapidly with Friendster (2002) and the customizable, music-centric phenomenon of MySpace (2003).
 # What is "Media"? (Mcluhan)
