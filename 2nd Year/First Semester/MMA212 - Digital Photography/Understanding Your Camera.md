@@ -6,3 +6,8 @@
 - Noticed that sunlight passing through small gaps created circular projected images
 ### Ibn al-Haytham (965-1040 CE)
 - Demonstrated that light travels in straight lines and used the camera obscura to study eclipses
+# Camera Types
+- Single Lens Reflex
+	- Digital Single Lens Reflex
+- Analog/Film
+- 
