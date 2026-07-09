@@ -40,7 +40,7 @@
 - Signs of puberty
 	- Start of vaginal discharge, growth spurt, body odor, and hair growing in the pubic area, unmder the arms and on the legs
  Polycystic Ovarian Syndrome
-# Puberty in Females
+# Puberty in Males
 - First signs are the growth of the testicles, and then the penis
 - Skin that surrounds the testicles are called the scrotum, and becomes thinner and redder
 - Body hair begins to grow, typically on face, chest, armpits, back and pubic area
