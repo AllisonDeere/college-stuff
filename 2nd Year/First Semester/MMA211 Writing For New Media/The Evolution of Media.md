@@ -36,5 +36,7 @@ This era unified the public, but because everyone consumed the exact same corpor
 - Consumers are no longer passive consumers, they are now active *producers*.
 - In the old days, audiences were passive as they simply consumed newspapers or read the news. Today, anyone with a smartphone can record an audio-visual clip, write a post, or capture a historical event, instantly sharing it with the entire world.
 ## How Do We Define 'Media'?
+*Perpetually connected, but socially isolated*
+
 
 # What is "Media"? (Mcluhan)
