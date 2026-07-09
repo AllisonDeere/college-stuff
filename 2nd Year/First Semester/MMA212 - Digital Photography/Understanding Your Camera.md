@@ -10,4 +10,5 @@
 - Single Lens Reflex
 	- Digital Single Lens Reflex
 - Analog/Film
-- 
+- Mirrorless
+- Point & Shoot
