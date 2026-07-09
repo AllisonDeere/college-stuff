@@ -32,4 +32,9 @@ This era unified the public, but because everyone consumed the exact same corpor
 - Digital media landscape quickly evolved from simple web browsing and text forums into a highly visible network of human connections.
 - This foundation was laid in the late 1990s when platforms like SixDegrees (1997) introduced the blueprint of modern social media: creating a user profile and listing friend networks.
 - Early 2000s saw this scale rapidly with Friendster (2002) and the customizable, music-centric phenomenon of MySpace (2003).
+### Audiences As Producers
+- Consumers are no longer passive consumers, they are now active *producers*.
+- In the old days, audiences were passive as they simply consumed newspapers or read the news. Today, anyone with a smartphone can record an audio-visual clip, write a post, or capture a historical event, instantly sharing it with the entire world.
+## How Do We Define 'Media'?
+
 # What is "Media"? (Mcluhan)
