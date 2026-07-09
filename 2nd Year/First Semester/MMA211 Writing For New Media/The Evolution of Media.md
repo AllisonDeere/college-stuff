@@ -37,6 +37,9 @@ This era unified the public, but because everyone consumed the exact same corpor
 - In the old days, audiences were passive as they simply consumed newspapers or read the news. Today, anyone with a smartphone can record an audio-visual clip, write a post, or capture a historical event, instantly sharing it with the entire world.
 ## How Do We Define 'Media'?
 *Perpetually connected, but socially isolated*
-
-
 # What is "Media"? (Mcluhan)
+**"The Medium is the Message**
+- McLuhan is a sociologist and philosopher on media theory.
+- McLuhan argues that the actual content being communicated is far less important than the technology transferring it.
+	- The Medium for Mcluhan is "**any extension of the human**"
+	- The shift from oral cultures to the printing press altered humanity by shifting our dominant sensory focus **from the ear to the eye**.
