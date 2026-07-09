@@ -38,7 +38,7 @@
 - Periods typically begins 2 years after breast development
 - Emotions may fluctuate more around the time of a period due to natural variations in hormone levels during the menstrual cycle
 - Signs of puberty
-	- Start of vaginal discharge, growth spurt, body odor, and hair growing in the pubic area, unmder the arms and on the legs
+	- Start of vaginal discharge, growth spurt, body odor, and hair growing in the pubic area, under the arms and on the legs
  Polycystic Ovarian Syndrome
 # Puberty in Males
 - First signs are the growth of the testicles, and then the penis
