@@ -17,3 +17,18 @@
 - Full chromatic adaptation to the brain can take several minutes
 
 ## Importance to Multimedia Artists and Designers
+### Cross-Platform Consistency
+- A design created on one monitor under warm office lighting will look completely different to someone viewing the design on their phone outdoors
+- Monitor calibration and neutral lighting environments is key
+	- This ensures that colors are predictable and accurate across different screens and print media
+
+### Designing for eXtended Reality (AR/VR)
+- A huge white screen in a dark room strains the eyes because pupils and photoreceptors have adapted to the dark ambient environment
+- Designers, when the technology permits so (e.g., Virtual/Augmented Reality) could adjust contrast ratios and color warmth based on the user's ambient environment 
+### Managing The "Simultaneous Contrast" Illusion
+- The human eye adapts to the dominant colors on the screen itself
+- Graphic designers should choose background and foreground colors that account for this localized adaptation
+	- For example, a neutral gray next to a vibrant blue will make the gray look artificially warm (yellow-ish)
+### Ambient Moods in Videos and Gaming
+
+### Print and Packaging Design (CMYK)
