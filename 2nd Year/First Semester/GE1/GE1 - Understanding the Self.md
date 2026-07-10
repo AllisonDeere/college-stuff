@@ -14,3 +14,6 @@
 - Confucius 
 - Laozi
 - Ancient Indian
+# Socrates
+469-399 BCE
+- M
