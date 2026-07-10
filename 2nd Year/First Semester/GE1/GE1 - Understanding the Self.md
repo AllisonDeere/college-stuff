@@ -47,4 +47,8 @@ Socrates taught by asking questions rather than giving direct answers.
 #### He developed his concept by:
 1. Asking questions
 2. Observing human behavior
-3. 
+3. Reflecting on Human Nature
+4. Through Continuous Dialogue
+
+# Plato
+- A greek philosopher and a student of S
