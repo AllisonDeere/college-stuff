@@ -51,4 +51,26 @@ Socrates taught by asking questions rather than giving direct answers.
 4. Through Continuous Dialogue
 
 # Plato
-- A greek philosopher and a student of S
+427-347 BCE
+"Balance between body and soul"
+- A greek philosopher and a student of Socrates
+- Founded the academy in Athen, Greece
+- Wrote many philosophical works, most in the form of dialogues
+- Plato preserved teachings of his beloved teacher, Socrates
+- One of Plato's students was Aristotle, who became teacher of Alexander the great
+## Plato's Major Works
+- The Republic
+- Apology
+- Phaedo
+- Symposium
+- Meno
+### What Plato Was tryna solve
+- What is the true nature of reality?
+- Who are we beyond our physical bodies?
+- How can people achieve a good meaningful life?
+- Why do people struggle between reason and desire?
+## Plato's Concept of the Self
+- The body is temporary and changes over time
+- The soul is eternal and carries wisdom
+- The goal of life is allow the soul to govern the body through reason
+
