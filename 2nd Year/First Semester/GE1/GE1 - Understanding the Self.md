@@ -23,7 +23,7 @@
 	- "Know Thy Self"
 	- "The examine life is not worth living"
 - Ultimate goal is to know and improve oneself
-### Why Socrates Was Executed
+## Why Socrates Was Executed
 - Impietry & Corrupting the youth
 - He accepted his sentence and died by drinking poison
 
@@ -32,4 +32,19 @@
 - The _body is temporary_ but ***the soul is what truly defines a person***
 - Person's true worth comes from wisdom and virtue
 - Understanding oneself is the first step toward living meaningful and ethical life
-##
+### "Know Thy Self"
+- Self-knowledge leads o wisdom, and wisdom helps people make good and ethical decisions
+### "The Unexamined Life is Not Worth Living"
+- A meaningful life requires continuous reflection and self improvement
+## The Socratic Method
+Socrates taught by asking questions rather than giving direct answers.
+- Critical thinking, self-reflection, and deeper meaning.
+# What Socrates Was Trying to Solve
+- "How can a person live a good and meaningful life?"
+> Ignorance, Lack of Self-Knowledge & Unethical Behavior
+	- Socrates concluded that the first step of living life well is knowing oneself.
+
+#### He developed his concept by:
+1. Asking questions
+2. Observing human behavior
+3. 
