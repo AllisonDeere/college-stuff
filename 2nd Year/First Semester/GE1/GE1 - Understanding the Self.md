@@ -96,3 +96,9 @@ Socrates taught by asking questions rather than giving direct answers.
 - why do ppl struggle between good and evilk
 - where can people find true happiness
 - how can human beings know God and understand themselves
+## SA's concept of self
+- The true self is the soul
+- Body is temporary, soul is eternal
+- True happiness cannot be found in material things alone
+- A person discovers their true identity by knowing both themselves and God
+- Self knowledge and knowledge of God go togethere
