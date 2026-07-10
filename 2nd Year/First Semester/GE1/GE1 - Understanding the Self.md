@@ -91,3 +91,8 @@ Socrates taught by asking questions rather than giving direct answers.
 - Famous book: Confessions
 - True self is found through inner reflction and relatonship with God
 - He believed understanding the self is not achieved through reason alone but through faith and one's relationship with God
+## What St. A was trying to solve
+- who am i
+- why do ppl struggle between good and evilk
+- where can people find true happiness
+- how can human beings know God and understand themselves
