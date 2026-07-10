@@ -84,3 +84,10 @@ Socrates taught by asking questions rather than giving direct answers.
 - Reason -> charioteer
 - Spirit -> the noble horse taht supports reason
 - Appetite -> the wildhorse seeks pleasure
+# St. Augustine of Hippo
+354 -430 CE
+- One of the most influential Christian philosophers and theologians
+- Combined ideas of Greek philosophy w/ Christian teachings
+- Famous book: Confessions
+- True self is found through inner reflction and relatonship with God
+- He believed understanding the self is not achieved through reason alone but through faith and one's relationship with God
