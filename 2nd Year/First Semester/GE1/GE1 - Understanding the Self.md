@@ -73,4 +73,14 @@ Socrates taught by asking questions rather than giving direct answers.
 - The body is temporary and changes over time
 - The soul is eternal and carries wisdom
 - The goal of life is allow the soul to govern the body through reason
-
+### Three Parts of the Soul
+#### Reason (Logos)
+- Thinks logically and seeks truth
+#### Spirit (Thymus)
+- Courage, determination, honor
+#### Appetite (Epithymia)
+- Desires and physical wants
+#### The Chariot Analogy
+- Reason -> charioteer
+- Spirit -> the noble horse taht supports reason
+- Appetite -> the wildhorse seeks pleasure
