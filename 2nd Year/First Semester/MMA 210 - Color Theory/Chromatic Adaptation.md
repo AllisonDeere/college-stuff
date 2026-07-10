@@ -1,4 +1,4 @@
-##Definition
+# Definition
 - The ability of the eyes and brain to automatically adjust to different light sources to perceive colors consistently
 - Central to achieve color constancy
 - This is why objects retain hues regardless of different ambient lighting conditions
@@ -28,10 +28,11 @@
 - The human eye adapts to the dominant colors on the screen itself
 - Graphic designers should choose background and foreground colors that account for this localized adaptation
 	- For example, a neutral gray next to a vibrant blue will make the gray look artificially warm (yellow-ish)
-### Accurate Color Management Transforms (Color Math)
+### Accurate Color Management (Color Math)
 - When an asset moves between an illustration software, a video editing timeline, and a 3D renderer, each program interprets color coordinates differently.
-	- As the human eye adapts to changes in color (chromatic adaptation), this is an invisible problem that we need to let the software itself fix
-	- 
+	- As the human eye adapts to changes in color (chromatic adaptation), this is can be a semi-invisible problem that we can let the software itself fix
+	- The Bradford Transform is used in color management software to simulate how human eyes adapt to different lighting sources
+		- This is used in everything from monitors to cameras and printers to ensure color consistency across different devices and platforms
 
 ### Print and Packaging Design (CMYK)
 - Designing for print and packaging media isn't 1:1 as screens use the RGB format, while print media uses CMYK. The same colors that show from a screen will not be the same colors seen under ambient lighting on print
