@@ -21,7 +21,6 @@
 - A design created on one monitor under warm office lighting will look completely different to someone viewing the design on their phone outdoors
 - Monitor calibration and neutral lighting environments is key
 	- This ensures that colors are predictable and accurate across different screens and print media
-
 ### Designing for eXtended Reality (AR/VR)
 - A huge white screen in a dark room strains the eyes because pupils and photoreceptors have adapted to the dark ambient environment
 - Designers, when the technology permits so (e.g., Virtual/Augmented Reality) could adjust contrast ratios and color warmth based on the user's ambient environment 
@@ -29,6 +28,12 @@
 - The human eye adapts to the dominant colors on the screen itself
 - Graphic designers should choose background and foreground colors that account for this localized adaptation
 	- For example, a neutral gray next to a vibrant blue will make the gray look artificially warm (yellow-ish)
-### Ambient Moods in Videos and Gaming
+### Accurate Color Management Transforms (Color Math)
+- When an asset moves between an illustration software, a video editing timeline, and a 3D renderer, each program interprets color coordinates differently.
+	- As the human eye adapts to changes in color (chromatic adaptation), this is an invisible problem that we need to let the software itself fix
+	- 
 
 ### Print and Packaging Design (CMYK)
+- Designing for print and packaging media isn't 1:1 as screens use the RGB format, while print media uses CMYK. The same colors that show from a screen will not be the same colors seen under ambient lighting on print
+	- Designers should test their designs under simulated proofing ("*soft proofing*" in Affinity/Photoshop), or if available, using the PANTONE system to ensure color consistency everywhere (though, this is VERY expensive). 
+- This ensures the product design maintains it's exact brand colors physically
