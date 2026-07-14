@@ -46,9 +46,16 @@
 ## Three functions of the uterus
 1. Endometrium sheds lining of the uterus every 21-40 days for menstruation
 2. Provides a place for protection and nourishment of the fetus during pregnancy
-3. 
+3. Contracts during labor to expel the fetus 
+# Hymen
+- Small, thin piece of tissue at the opening of your vagina
+![[Pasted image 20260714141759.png|378]]
 # Cervix 
+
 # Vagina
+- The female organ for copulation
+- Receiving the seminal fluid from the male penis
+- Passageway for menstruation or the birth of the fetus
 
 # Polycystic Ovary Syndrome (PCOS)
 - Eggs don't mature due to cysts formation, and immature eggs do not get released
