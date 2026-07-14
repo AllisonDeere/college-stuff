@@ -21,8 +21,9 @@
 - Also known as uterine tubes or *oviducts*
 	- Tiny, delicate tubes that stretch from the uterus to the ovaries
 	- Role is to transport eggs from the ovaries to the uterus
-- Every month when the ovary released an egg, (ovulation), the egg is picked up by the adjacent fallopian tube
-	- Then gently moved down the tu
+- Every month when the ovary released an egg, (**ovulation**), the egg is picked up by the adjacent fallopian tube
+	- Then gently moved down the tube where it meets the **sperm**
+	- The egg, if fertilized by the sperm, is then called an **embryo**
 # Uterus
 # Cervix 
 # Vagina
