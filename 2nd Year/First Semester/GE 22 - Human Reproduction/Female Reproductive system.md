@@ -24,6 +24,20 @@
 - Every month when the ovary released an egg, (**ovulation**), the egg is picked up by the adjacent fallopian tube
 	- Then gently moved down the tube where it meets the **sperm**
 	- The egg, if fertilized by the sperm, is then called an **embryo**
+## Common problems with fallopian tubes
+- STDs, Chlamydia and gonorrhea
+	- Chlamydia is a common STD, caused by bacteria, viruses or parasites
+		- Spread through oral, vaginal or anal sex
+			- Symptoms
+				- Painful urination
+				- Vaginal discharge
+				- Discharge from the penis
+				- Painful vaginal sex
+				- Vaginal bleeding between periods and after sex
+				- Testicular pain
+	- Gonorrhea is a common STI from the bacteria called Neisseria gonorrhoeae
+		- Spread through sexual fluids, including vaginal fluid and semen
+		- Spread through intercourse, anal sex, oral sex, or sharing sex toys with an infected person
 # Uterus
 # Cervix 
 # Vagina
