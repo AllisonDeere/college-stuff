@@ -39,6 +39,14 @@
 		- Spread through sexual fluids, including vaginal fluid and semen
 		- Spread through intercourse, anal sex, oral sex, or sharing sex toys with an infected person
 # Uterus
+- A hollow, muscular, pear shaped organ
+	- Outside layer - **perimetrium**
+	- Muscular inside layer - **myometrium**
+	- Mucous membrane lining the uterus - **endometrium**
+## Three functions of the uterus
+1. Endometrium sheds lining of the uterus every 21-40 days for menstruation
+2. Provides a place for protection and nourishment of the fetus during pregnancy
+3. 
 # Cervix 
 # Vagina
 
