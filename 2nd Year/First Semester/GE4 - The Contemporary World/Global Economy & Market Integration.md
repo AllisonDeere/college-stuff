@@ -31,7 +31,9 @@
 	- Governments use tariffs and quotas to shield domestic businesses from foreign competition
 # Trade Liberalization
 - The removal ort reduction of barriers to trade among countries to promote free trade of goods and services
-	- Removal of tariffs, quotas, am
+	- Removal of tariffs, quotas, and embargoes
+		- - e.g., NAFTA (North American Free Trade Agreement)
+# Trade Liberalization
 ## Trade
 - The action of buying or selling goods and services between two parties
 - The global exchange of goods, services, capital and data across international borders
