@@ -6,9 +6,9 @@
 
 ## Histogram
 ![[Pasted image 20260714150817.png]]
-
 # Faucet Analogy
 - We control the amount of water:
 	- how wide the faucet's opening is
 	- how long to leave the faucet open
 	- the capacity of the bucket to collect water
+# Exposure Triangle
