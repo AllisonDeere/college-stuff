@@ -15,3 +15,4 @@
 # Kant
 ![[Pasted image 20260715160526.png]]
 ![[Pasted image 20260715160707.png]]
+![[Pasted image 20260715161041.png]]
