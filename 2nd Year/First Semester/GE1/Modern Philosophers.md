@@ -10,5 +10,6 @@
 ![[Pasted image 20260715154507.png]]
 # Hume
 ![[Pasted image 20260715155415.png]]
+![[Pasted image 20260715155725.png]]
 
 # Kant
