@@ -7,4 +7,5 @@
 ![[Pasted image 20260715153952.png]]
 ![[Pasted image 20260715154318.png]]
 ![[Pasted image 20260715154418.png]]
+![[Pasted image 20260715154507.png]]
 # Hume & Kant
