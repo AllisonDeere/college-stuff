@@ -8,4 +8,7 @@
 ![[Pasted image 20260715154318.png]]
 ![[Pasted image 20260715154418.png]]
 ![[Pasted image 20260715154507.png]]
-# Hume & Kant
+# Hume
+![[Pasted image 20260715155415.png]]
+
+# Kant
