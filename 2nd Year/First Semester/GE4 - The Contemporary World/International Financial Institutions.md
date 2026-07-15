@@ -14,3 +14,4 @@
 - Washington DC
 - 189 members
 	- To reconstruct Europe after WW2, now to reduce poverty by lending the money of the rich to the poor countries for specific development projects and by providing technical assistance to poor countries
+# World Trade Organization
