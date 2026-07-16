@@ -4,3 +4,7 @@
 **Tradiotional Media  vs. New Media** (Role of Consumers)
 	- One way delivery, but what are it's advantages and disadvantages?
 	- From "Gatekeepers to Tour-guides"
+# The Mechanics of Crisis
+***Why is it so difficult to verify truth today?***
+### 1. Algorithmic Isolation
+- Social media algorithms track our habits to keep us engaged, trapping us in **ideological bubbles**. Through **selective exposure**, we naturally seek out information that validates out pre-existing beliefs, while algorithms filter out any healthy pushback.
