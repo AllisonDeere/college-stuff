@@ -18,3 +18,7 @@ address me (in the line of misinformation)
 #### "Model Collapse" (*autophagous* loop)
 #### Introduction of NotebookLM
 
+# Actionable Steps for Credibility
+- Be transparent
+- Have substance
+- Connect with the community
