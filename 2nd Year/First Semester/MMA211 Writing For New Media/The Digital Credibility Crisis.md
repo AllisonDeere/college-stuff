@@ -12,3 +12,7 @@
 - Online, a carefully researched piece of legacy journalism sits right next to a coordinated troll campaign or a sensationalized fake news story. on this flat playing field, **outraged drives engagement, meaning falsehoods regularly outperform verified facts.**
 
 # "Reliability = Credibility"
+# The Age of AI
+address me (in the line of misinformation)
+#### "AI Hallucination"
+
