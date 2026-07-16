@@ -16,5 +16,5 @@
 address me (in the line of misinformation)
 #### "AI Hallucination"
 #### "Model Collapse" (*autophagous* loop)
-#### Intr
+#### Introduction of NotebookLM
 
