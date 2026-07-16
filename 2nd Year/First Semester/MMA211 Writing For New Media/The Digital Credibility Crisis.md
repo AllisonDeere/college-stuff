@@ -3,3 +3,4 @@
 	*coined by futurist Alvin Toffler in 1980 book The Third Wave*
 **Tradiotional Media  vs. New Media** (Role of Consumers)
 	- One way delivery, but what are it's advantages and disadvantages?
+	- From "Gatekeepers to Tour-guides"
