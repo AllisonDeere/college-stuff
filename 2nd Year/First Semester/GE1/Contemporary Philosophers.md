@@ -37,3 +37,4 @@ I act therefore I am.
 ![[Pasted image 20260717161134.png]]
 ![[Pasted image 20260717161156.png]]
 ![[Pasted image 20260717161345.png]]
+![[Pasted image 20260717161625.png]]
