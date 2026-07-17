@@ -6,12 +6,17 @@ Sigmund Freud (1724-1804)
 - Why do people behave in ways they do not fully understand or consciously control?
 		- e.g., why do we have irrational fears, harmful behaviours, dreams or slips of the tongue that reveal hidden truth
 ![[Pasted image 20260717151516.png]]
-### How he developed this content
+### How he developed this concept
 - clinical observation
 - hypnosis
 - dream analysis
 - free association
 - interpretation of unconscious conflicts
+### Concept of the Self
+1. Id
+2. Ego 
+3. Superego
+![[Pasted image 20260717151940.png|310]]
 
 # Ryle
 
