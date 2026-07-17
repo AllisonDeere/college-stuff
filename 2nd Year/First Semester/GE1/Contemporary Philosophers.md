@@ -26,7 +26,8 @@ I act therefore I am.
 - Criticized Rene Descartes' idea that the mind/body are two separate substances
 - book The Concept of Mind challenged the traditional understanding of the 
 ![[Pasted image 20260717154743.png]]
-
-
+![[Pasted image 20260717155407.png]]
 # Churchland
+![[Pasted image 20260717155551.png]]
+![[Pasted image 20260717155853.png]]
 # Merleau-Ponty
