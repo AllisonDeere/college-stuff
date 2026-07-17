@@ -17,6 +17,7 @@ Sigmund Freud (1724-1804)
 2. Ego 
 3. Superego
 ![[Pasted image 20260717151940.png|310]]
+![[Pasted image 20260717152334.png|422]]
 
 # Ryle
 
