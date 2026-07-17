@@ -34,3 +34,6 @@ I act therefore I am.
 ![[Pasted image 20260717160432.png]]
 # Merleau-Ponty
 ![[Pasted image 20260717160701.png]]
+![[Pasted image 20260717161134.png]]
+![[Pasted image 20260717161156.png]]
+![[Pasted image 20260717161345.png]]
