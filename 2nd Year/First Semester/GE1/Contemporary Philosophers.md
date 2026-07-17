@@ -30,4 +30,5 @@ I act therefore I am.
 # Churchland
 ![[Pasted image 20260717155551.png]]
 ![[Pasted image 20260717155853.png]]
+![[Pasted image 20260717160325.png]]
 # Merleau-Ponty
