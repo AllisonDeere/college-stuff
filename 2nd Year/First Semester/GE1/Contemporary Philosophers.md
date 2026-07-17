@@ -20,6 +20,13 @@ Sigmund Freud (1724-1804)
 ![[Pasted image 20260717152334.png|422]]
 
 # Ryle
+Gilbert Ryle (1900-1976)
+I act therefore I am.
+- British philosopher associated w/ ordinary language philosophy
+- Criticized Rene Descartes' idea that the mind/body are two separate substances
+- book The Concept of Mind challenged the traditional understanding of the 
+![[Pasted image 20260717154743.png]]
+
 
 # Churchland
 # Merleau-Ponty
