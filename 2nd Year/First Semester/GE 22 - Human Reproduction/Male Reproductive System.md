@@ -47,4 +47,8 @@
 ![[Pasted image 20260723135925.png]]
 
 ## Sexual Arousal
-- Penis is flaccid, then becomes hard wehn a male 
+- Penis is flaccid, then becomes hard when a male is sexually excited
+- Tissues fill with blood and becomes stiff and erect
+- This makes it easier to insert into the female's vagina during sex
+
+![[Pasted image 20260723140320.png]]
