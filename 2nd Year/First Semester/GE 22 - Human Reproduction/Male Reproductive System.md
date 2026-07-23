@@ -23,3 +23,16 @@
 - Male organ used for urination and sexual intercourse. 
 - During puberty, the penis lengthens
 - Ability to ejaculate begins at 12-14 years old
+	- Flaccid penis fills with blood during arousal
+		- Causing erection and allowing for the function of intercourse
+- A lubricant, smegma, is produced under the prepuce on the penis.
+- This foreskin may be circumcised/removed for hygiene or religious reasons.
+## Urethra
+- Allow passage of urine and semen
+	- 18-22cm long muscular tube that conveys urine from the urinary
+	- Structure & function of the urethra is different between male and female anatomy
+		- Males: urethra is long and runs the length of the penis and a part of the urinary system & reproductive system
+		- Females: urethra is short (~4cm) and not part of the reproductive system
+## Scortum
+- Pouch of skin suspended
+	- divided into tow sacs, 
