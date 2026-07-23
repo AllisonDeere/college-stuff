@@ -35,4 +35,16 @@
 		- Females: urethra is short (~4cm) and not part of the reproductive system
 ## Scortum
 - Pouch of skin suspended
-	- divided into tow sacs, 
+	- divided into tow sacs, each containing one testicle and epididymis
+### Testes
+- Oval-shaped testes are located in the scrotum
+	- each divided into 250 lobules
+		- within the lobule are seminiferous tubers where the sperm are formed
+### Epididymis
+- Produces sperm cells
+- Mature sperm is stored here, a tube 13-20 feet in length coiled and lying on the side of each testicle
+
+![[Pasted image 20260723135925.png]]
+
+## Sexual Arousal
+- Penis is flaccid, then becomes hard wehn a male 
