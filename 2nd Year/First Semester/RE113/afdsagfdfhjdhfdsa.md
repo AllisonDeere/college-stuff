@@ -1,0 +1,3 @@
+ABSENT:
+1. ALBANIA
+2. 
