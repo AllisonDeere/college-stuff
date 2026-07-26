@@ -9,3 +9,6 @@ Key topics to cover:
 5. What practical steps can content creators and fellow creatives take to build trust and restore digital credibility?
 ---
 
+intro here about the medium is the message
+
+On X (formerly *Twitter*), selective exposure is the name of the game for the entire website after Elon Musk's acquisition of 
