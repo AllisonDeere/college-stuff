@@ -11,4 +11,4 @@ Key topics to cover:
 
 intro here about the medium is the message
 
-On X (formerly *Twitter*), selective exposure is the name of the game for the entire website after Elon Musk's acquisition of 
+On X (formerly *Twitter*), selective exposure has been the name of the game for the entire website after Elon Musk's acquisition of Twitter in 2022. 
