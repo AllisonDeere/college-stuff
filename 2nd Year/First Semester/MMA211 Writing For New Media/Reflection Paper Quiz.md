@@ -11,4 +11,6 @@ Key topics to cover:
 
 intro here about the medium is the message
 
-On X (formerly *Twitter*), selective exposure has been the name of the game for the entire website after Elon Musk's acquisition of Twitter in 2022. 
+On X (formerly *Twitter*), selective exposure has been the name of the game for the entire website after Elon Musk's acquisition of Twitter in 2022. "Hate for likes", if you will. As Twitter is one of the few social media without selective groups created by users to form their own communities, instead being forced to see the most popular content that your bubble of mutual followers and people you follow interact with. It's gotten worse in a couple years, especially with major algorithmic changes after Musk's acquisition, with a flattened digital playing field that has impacted the way people interact on X in so many ways. As the saying goes: Everyone is a journalist but not everyone can be truth-tellers. Misinformation is like seeing a grain of sand at the beach, and credibility can simply be bought for 10$-- the verified checkmark-- has lately been seen as a sign you are not credible, but simply looking to gain money from interactions.
+
+Speaking of interacting with people only you like, we tend to like people who are relatable, and those are the people we choose to trust and *label* as credible. For example,  
