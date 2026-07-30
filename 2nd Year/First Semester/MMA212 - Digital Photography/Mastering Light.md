@@ -38,4 +38,24 @@
 	- Can be created using a form backlighting, where the light is at an angle from behind or above.
 	- Provides lighting to the outline or 'rims' of the subject.
 ## Loop Lighting
-- Specific t
+- Specific technique used for portraits.
+	- Refers to a loop of shadow from the nose on the cheek. Generally considered a less dramatic and intense option for portraits.
+## Broad Lighting
+- Often used for graduation photos, broad light for photography is a type for side lighting where the side of the subject closest to the camera is lit, and the side farther away is in shadow.
+	- Creates a fuller subject image, and the parts of the subject in light appears bigger.
+
+## Short Lighting
+- Opposite of broad lighting, where the side of the subject closest to the camera is in shadow, where the farthest side is in light.
+	- Instead of creating a fuller subject image, short lighting will thin out the subject.
+
+## Butterfly Lighting
+- Like loop lighting, butterfly lighting is named after the specific type of shadow.
+- Light is positioned in front and above your subject to create a butterfly-shaped shadow under the subject by their neck.
+
+## Split Lighting
+- Where the light hits your subject at a 90 degree angle.
+	- This results in a straight line down the center of the subject with one side entirely lit with the other side completely in shadow.
+	- Used for dramatic portraits, especially when hard lighting is used.
+
+## Rembrant Lighting
+- named after how Rembrandt uses light in his port
