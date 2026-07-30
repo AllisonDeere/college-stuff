@@ -80,4 +80,25 @@
 
 # Equipment
 ## Strobes
-- Refered to sometimes as monobloc or monolight, it is a dedicated flash unit,
+- Referred to sometimes as monobloc or monolight, it is a dedicated flash unit attached to a stand.
+## Flashgun/Speedlight
+- Small lights mounted on top of the camera that are highly portable and have reasonable power outputs. Less expensive that dedicated studio strobes. Essentially a mini-strobe.
+## Continuous Lights
+- Serves the same function as strobes, but do not flash. High-powered constant lamps that can be fitted with modifiers.
+	- LED, Fluorescent, Tungsten/Halogen, and HMI lights.
+## Light Modifiers
+- A way to control, shape, or change the light coming from a source.
+	- Softeners
+		- Diffusers
+		- Softbox
+		- Umbrella
+	- Shapers
+		- Snoot
+		- Grids/Honeycombs
+		- Barn Doors
+	- Stylizers
+		- Reflectors
+		- Gels
+		- Bounce Cards
+		- Flags
+		- Natural Modifiers (Cloth, curtains, walls, etc.)
