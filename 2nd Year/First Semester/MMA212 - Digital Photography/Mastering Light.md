@@ -61,4 +61,23 @@
 - Named after how Rembrandt uses light in his portrait paintings.
 - Type of side lighting similar to split lighting where the subject is in shadow and has a triangle of light. This can be highly effective in making a 2D image appear three dimensional.
 
-## 
+# Key & Fill Light
+
+## Key Light
+- Works as the main source of exposure for a cinematographer. Critical to properly exposing and highlighting the shapes, dimensions and forms of a subject and atmosphere that appear on screen.
+- Your main light source.
+#### Types
+- High-key
+- Low-key
+- 
+## Fill Light
+- Responsible for exposing the details of a subject that fall in the shadows of the key light.
+- Typically positioned opposite of the key light to literally fill in the shadows that the key light creates.
+#### Types
+
+## 3-Point Lighting Setup
+- Fill (via reflector), backlight, and key light
+
+# Equipment
+## Strobes
+- Refered to sometimes as monobloc or monolight, it is a dedicated flash unit,
