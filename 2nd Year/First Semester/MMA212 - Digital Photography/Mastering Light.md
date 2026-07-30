@@ -57,5 +57,8 @@
 	- This results in a straight line down the center of the subject with one side entirely lit with the other side completely in shadow.
 	- Used for dramatic portraits, especially when hard lighting is used.
 
-## Rembrant Lighting
-- named after how Rembrandt uses light in his port
+## Rembrandt Lighting
+- Named after how Rembrandt uses light in his portrait paintings.
+- Type of side lighting similar to split lighting where the subject is in shadow and has a triangle of light. This can be highly effective in making a 2D image appear three dimensional.
+
+## 
