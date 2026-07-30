@@ -33,3 +33,9 @@
 - Opposite of soft or diffused light. When the light source is pointed directly at the subject.
 	- Results in high contrast and intensity, which is often created by the midday sun.
 	- Shadows are much sharper and more defined.
+## Rim Light
+- Creates a glowing outline or highlight around the subject depending on the direction the light is from.
+	- Can be created using a form backlighting, where the light is at an angle from behind or above.
+	- Provides lighting to the outline or 'rims' of the subject.
+## Loop Lighting
+- Specific t
