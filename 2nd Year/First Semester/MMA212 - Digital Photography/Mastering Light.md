@@ -75,9 +75,10 @@
 - Typically positioned opposite of the key light to literally fill in the shadows that the key light creates.
 #### Types
 
-## 3-Point Lighting Setup
-- Fill (via reflector), backlight, and key light
 
+
+# 3-Point Lighting Setup
+- Fill (via reflector), backlight, and key light
 # Equipment
 ## Strobes
 - Referred to sometimes as monobloc or monolight, it is a dedicated flash unit attached to a stand.
