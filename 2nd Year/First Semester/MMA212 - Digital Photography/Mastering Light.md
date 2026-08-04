@@ -69,11 +69,9 @@
 #### Types
 - High-key
 - Low-key
-- 
 ## Fill Light
 - Responsible for exposing the details of a subject that fall in the shadows of the key light.
 - Typically positioned opposite of the key light to literally fill in the shadows that the key light creates.
-#### Types
 
 
 
