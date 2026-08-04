@@ -27,4 +27,7 @@ Also known as egg cells, they are critical cells in the production of new life a
 	- 'Assisted hatching' is a process whereby small openings are created using various techniques on the egg wall.
 ## Corona Radiata
 - surrounds the egg. attached to the zona pellucida and their main purpose is to supply vital proteins to the cell.
-## Follicular Phase
+## Ovulation
+- Occurs when your ovary releases an egg, happens around the 14th day of a 28-day menstrual cycle. Tracking ovulation can be done using a calendar, checking your cervical mucus or using an ovulation predictor kit.
+![[Pasted image 20260804140226.png]]
+
