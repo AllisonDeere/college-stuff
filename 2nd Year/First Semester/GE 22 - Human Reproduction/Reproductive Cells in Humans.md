@@ -20,3 +20,11 @@ Also known as egg cells, they are critical cells in the production of new life a
 - In the cytoplasm that all the cells' activities take place to keep it alive and functioning properly
 ## Vitelline membrane
 - a thin protein layer covering and encapsulating the egg yolk nutrients destined for the developing embryo.
+## Zona Pellucida (egg wall)
+- outer membrane of the egg
+- This is where sperms fertilize. This structure helps the sperm to enter the egg through its hard outer layers
+- Hardens with age -- the reason that an egg does or does not fertilize.
+	- 'Assisted hatching' is a process whereby small openings are created using various techniques on the egg wall.
+## Corona Radiata
+- surrounds the egg. attached to the zona pellucida and their main purpose is to supply vital proteins to the cell.
+## Follicular Phase
