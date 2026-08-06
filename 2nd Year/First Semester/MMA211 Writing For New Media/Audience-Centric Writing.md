@@ -34,6 +34,9 @@
 - Fame leverages existing mental models and social proof. 
 	- By featuring recognized figures, you tap into established credibility, allowing the reader to allocate attention based on pre-existing trust, which acts as a powerful cognitive shortcut.
 ## Oddity
+- Oddity functions as a pattern interrupt. In an environment of constant scrolling, breaking expected visual or narrative patterns forces the brain to pause, shifting the reader from passive scanning to active focus.
 ## Conflict
+- Conflict introduces a "job to be done" regarding resolution. By highlighting healthy tension or debate, you create an emotional necessity for the reader to stick around, to see how the narrative problem is resolved, sustaining engagement through psychological investment.
 ## Immediacy
+- 
 ## Impact
