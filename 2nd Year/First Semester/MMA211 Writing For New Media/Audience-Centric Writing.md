@@ -38,5 +38,6 @@
 ## Conflict
 - Conflict introduces a "job to be done" regarding resolution. By highlighting healthy tension or debate, you create an emotional necessity for the reader to stick around, to see how the narrative problem is resolved, sustaining engagement through psychological investment.
 ## Immediacy
-- 
+- Immediacy capitalizes on the psychological friction of the current moment, framing your message as an **urgent, time-sensitive priority**. By anchoring the content within a contemporary shift, software update, or rapid industry transition, you cultivate a sense of professional FOMO, forcing the audience to consume the information immediately to avoid falling behind the curve.
 ## Impact
+- Impact answers the reader's "what's in it for me?" demand by turning big real world consequences into concrete utility. In a world where attention is traded for value, showing the actual results of design choices gives people immediate and actionable takeaways. This justifies the investment of their limited focus, turning a passive view into a genuine connection.
