@@ -26,4 +26,4 @@ Egg + Sperm = Zygote
 # Pregnancy
 Established when a fertilized egg has been implanted in the wall of a woman's uterus.
 - Normal pregnancy is about 9 months.
-- 
+![[Pasted image 20260811141623.png]]
