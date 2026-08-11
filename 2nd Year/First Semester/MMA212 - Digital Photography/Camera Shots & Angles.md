@@ -38,4 +38,12 @@
 	- **Knee Level Shot**
 		- When your camera height is about as low as your subject's knees. Can emphasizes superiority.
 	- **Ground Level Shot**
-		- Camera height is ground-level with subject. Needless to say, 
+		- Camera height is ground-level with subject. Needless to say, this shot captures what's going on the ground your subject stands on.
+	- **Shoulder Level Shot**
+		- Self-explanatory.
+	- **Dutch Angle/Tilt Shot**
+		- Camera slanted to one side. Can create a sense of disorientation. 
+	- **Bird's Eye View/Overhead Shot**
+		- Shot is directly almost 90 degrees pointed to the ground. Creates a great sense of scale and movement. A type of Aerial Shot.
+	- **Aerial Shot**
+		- Establishes a large expanse of scenery. Usually taken by a drone or helicopter. General term for any shot taken in the air.
