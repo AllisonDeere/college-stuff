@@ -26,4 +26,16 @@
 				- The most you can fill a frame with your subject. Eyes, mouths, and gun triggers. In extreme close-up shots, smaller objects get great detail and are the focal point.
 
 # Camera Angles
-- The camera shot angle is used to specify the location whe
+- The camera shot angle is used to specify the location where the camera is placed to take a shot. The position of the camera in relation to the subjects can affect the way the viewer perceives the scene.
+	- **Eye Level Shot**
+		-  Neutral perspective, mimics how we see people in real life. Our eye line is connecting with theirs.
+	- **Low Angle Shot**
+		- Camera looks up at the subject. These camera shots most often emphasize power dynamics between characters.
+	- **High Angle Shot**
+		- Camera points down at the subject. Creates inferiority.
+	- **Hip Level Shot**
+		- Camera height is roughly waist-high.
+	- **Knee Level Shot**
+		- When your camera height is about as low as your subject's knees. Can emphasizes superiority.
+	- **Ground Level Shot**
+		- Camera height is ground-level with subject. Needless to say, 
