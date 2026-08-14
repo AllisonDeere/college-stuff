@@ -33,3 +33,6 @@ Actually, before free writing, you may also consume media or better yet expose y
            	The best way to proofread is actually to read it out loud. By reading it out loud you will notice the “hiccups” in your writing.
 
 ```
+
+Writing can be a long and painful endeavor, when it is not done as a structured and logical process. The first step of writing anything, before grammar and revisions, is to *Freewrite*. Essentially, it's just dumping all of the ideas and thoughts a writer has in their head without any structure nor necessarily any rules. There are no wrong thoughts in freewriting, as it is the step a writer takes to focus getting anything, no matter how silly the idea may be, on a page to be revised and improved on later. Compartmentalization is the key here; keeping each process, from the birth of the idea to the later improved version of the page is extremely beneficial to focus on simply letting your thoughts run wild first, and making those thoughts make sense later.
+
