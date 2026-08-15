@@ -38,4 +38,6 @@
 	- **Knee Level Shot**
 		- When your camera height is about as low as your subject's knees. Can emphasizes superiority.
 	- **Ground Level Shot**
-		- Camera height is ground-level with subject. Needless to say, 
+		- Camera height is ground-level with subject. 
+	- Aerial Shot
+	- Brid's Eye View
