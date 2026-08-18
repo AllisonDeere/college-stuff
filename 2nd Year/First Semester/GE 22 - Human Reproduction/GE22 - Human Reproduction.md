@@ -9,3 +9,6 @@ Quiz/Activity 30%
 Output/Project 20%
 	Required Notebook
 Exam 40%
+
+MIDTERM: Lessons 1-5 on notebook (after midterms)
+	september 2?
