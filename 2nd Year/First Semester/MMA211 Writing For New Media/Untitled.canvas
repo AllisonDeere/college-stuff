@@ -1,0 +1,8 @@
+{
+	"nodes":[
+		{"id":"baf6e1042e9fb16f","x":-125,"y":-30,"width":250,"height":60,"type":"text","text":"Writing for New Media"},
+		{"id":"30423e04baa7209e","x":240,"y":80,"width":250,"height":60,"color":"3","type":"text","text":"Audience-Centric Writing"},
+		{"id":"b34190bf7c41bbab","x":240,"y":180,"width":250,"height":60,"type":"text","text":"Audience Persona"}
+	],
+	"edges":[]
+}
