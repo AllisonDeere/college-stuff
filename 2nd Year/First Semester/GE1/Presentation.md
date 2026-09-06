@@ -1,0 +1,1 @@
+Asebo, Kawit, Ladimo, Opinion, Pepito, Somosot
