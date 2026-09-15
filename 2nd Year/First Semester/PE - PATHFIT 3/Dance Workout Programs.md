@@ -22,3 +22,8 @@ Fong Yan et al. (2024) defines Dance Intervention as:
 	- lasts for at least 4-6 weeks
 **NOT:**
 psychotherapeutic, unstructured, or a combination of programs
+
+According to the study, structured dance:
+- matches standard exercise in boosting mental and cognitive health.
+- eases anxiety and depression while improving QoL for conditions such as Parkinson's
+- delivers consistent benefits across all age groups and demographics
