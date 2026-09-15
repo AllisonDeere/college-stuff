@@ -35,5 +35,6 @@ According to the study, structured dance:
 | Reducing overall distress & boosting emotional well-being | Overall stress reduction       |
 | Intrinsic motivation & Engagement                         | Building self-efficacy         |
 | Aspects of Memory & social Cognition                      | Language & verbal fluency      |
-
+## Why dance works differently
+- engages the brain by blending motor planning, spatial awareness, and rhythm
 
