@@ -33,7 +33,7 @@ According to the study, structured dance:
 | Dance outperforms                                         | Standard exercises outperforms |
 | --------------------------------------------------------- | ------------------------------ |
 | Reducing overall distress & boosting emotional well-being | Overall stress reduction       |
-| Intrinsic motivation & Engagement                         |                                |
-| Aspects of Memory & social Cognition                      |                                |
+| Intrinsic motivation & Engagement                         | Building self-efficacy         |
+| Aspects of Memory & social Cognition                      | Language & verbal fluency      |
 
 
