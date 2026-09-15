@@ -27,3 +27,13 @@ According to the study, structured dance:
 - matches standard exercise in boosting mental and cognitive health.
 - eases anxiety and depression while improving QoL for conditions such as Parkinson's
 - delivers consistent benefits across all age groups and demographics
+
+# Where Each Modality Excels
+
+| Dance outperforms                                         | Standard exercises outperforms |
+| --------------------------------------------------------- | ------------------------------ |
+| Reducing overall distress & boosting emotional well-being | Overall stress reduction       |
+| Intrinsic motivation & Engagement                         |                                |
+| Aspects of Memory & social Cognition                      |                                |
+
+
