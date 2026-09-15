@@ -40,4 +40,5 @@ According to the study, structured dance:
 - protects memory by stimulating brain regions resistant to age-related decline
 - fosters social bonding through shared rhythm and endorphin release
 - promotes mindfulness by grounding focus in body movement
+![[Pasted image 20260915094251.png]]
 
