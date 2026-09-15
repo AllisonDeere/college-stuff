@@ -37,4 +37,7 @@ According to the study, structured dance:
 | Aspects of Memory & social Cognition                      | Language & verbal fluency      |
 ## Why dance works differently
 - engages the brain by blending motor planning, spatial awareness, and rhythm
+- protects memory by stimulating brain regions resistant to age-related decline
+- fosters social bonding through shared rhythm and endorphin release
+- promotes mindfulness by grounding focus in body movement
 
