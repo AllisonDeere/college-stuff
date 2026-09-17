@@ -12,3 +12,5 @@ Students will create a tri-format advocacy that uses 3-supporting formats.
 	- The focus of the project.
 3. Exploratory Creative Format
 	- In the case of Dumb Ways to Die, an interactive mobile game.
+
+![[Pasted image 20260917111319.png]]
