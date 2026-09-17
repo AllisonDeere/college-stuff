@@ -11,4 +11,4 @@ Students will create a tri-format advocacy that uses 3-supporting formats.
 2. Core Video
 	- The focus of the project.
 3. Exploratory Creative Format
-	- In the case of Dumb Ways to Die, an interactive mobile 
+	- In the case of Dumb Ways to Die, an interactive mobile game.
