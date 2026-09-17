@@ -11,7 +11,7 @@ Prioritizes health and physical conditioning.
 Body, Action, Space, Time, Energy
 
 ## Dance as a form of Exercise Intervention
-Fong Yan et al. (2024) defines Dance Intervention as:
+Fong Yan et al. (2024) defines Dance Workout Program or Dance Intervention as:
 - Structure
 	- structured and instructor-led
 - Choreography
