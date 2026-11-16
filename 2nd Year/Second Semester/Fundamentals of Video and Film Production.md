@@ -79,5 +79,10 @@
 ### POSSIBLE LOCATIONS
 - Cannery-Calderon
 - Balay ni Shirliz
-- Balay ni AJ
-- Balay ni 
+- Airbnb
+- Plaza Heneral
+- Plaza Polomolok
+
+### DEADLINES:
+- Idea shit Fri 20th
+- 
