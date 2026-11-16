@@ -25,7 +25,13 @@
 						- Responsible for the overall photographic and visual appearance of a film.
 						- Translates film's creative vision into images through decisions of where to point the fucking camera
 						- lighting exposure movement and lenses too i guess
-					- 
+					- **Screenwriter**
+						- responsible for writing the screenplay
+					- **Talent/Cast**
+						- **Principal Cast**
+							- Central Characters of the film.
+							- Lead, Supporting, and Co-Lead Actor/Actress
+						- **Minor S**
 ### BTL Crew
 - Extras, Art Dept, Costume Dept, Production, etc.
 - 
