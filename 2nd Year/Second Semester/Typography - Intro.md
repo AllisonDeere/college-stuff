@@ -18,3 +18,12 @@
 ## There is a style beyond style
 - Typographic style is not about a fixed aesthetic but about the ability to work flexibly and intelligently across contexts, remaining graceful, inventive, and meaningful without becoming cliched or self-indulgent
 - Typography interprets writing much like performance interprets music, and while it can be used manipulatively its highest form is thoughtful, slow, and deserving of deep appreciation for the meaning and pleasure it provides
+
+## Typography should perform the following for the readers:
+- Invite the reader into the text
+- Reveal the tenor and meaning of the text
+- Clarify the structure and order of the text
+- Link the text with other existing elements
+- induce a state of energetic repose, which is the ideal condition for reading
+
+# Humans and Machines
