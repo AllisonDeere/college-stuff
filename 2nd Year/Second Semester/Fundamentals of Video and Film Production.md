@@ -40,6 +40,11 @@
 						- **Stand-Ins and Body Doubles**
 ### BTL Crew
 - Extras, Art Dept, Costume Dept, Production, etc.
-- 
+- Technical, operational, and administrative people
+- a lot of departments
+	- **Unit Production Manager**
+		- Oversees the day-to-day operations of the production. Works closely with the producer and other department heads to keep things organized.
+	- **1st AD**
+		- Oversees day-to-day filming schedule and manages on-set operations. Coordinates with the director, producer, and department heads to ensure that scenes are filmed efficiently and according to schedule. 
 ## Post-Production Crew
 - Editors, Colorists, etc.
