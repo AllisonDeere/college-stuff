@@ -3,3 +3,18 @@
 - Neither writing nor editing nor graphic design (but a type of graphic design technically speaking)
 - Decides whether meaning survives the journey.
 	- Thoughts/Ideas -> Words -> Typography -> Reading -> Understanding -> Response
+## Typography exists to honor content
+- Clarify or discusses meaning
+- Its goal is to attract attention
+- Should be transparent; can be clarified, honored and shared, or knowlingly
+- Should be durable
+	- Relies on legibility and an added quality
+- Typography enhances meaning but the content itself must originate from the writer.
+- Even simple or humble texts benefit from thoughtful typography and some visual embellishments can enhance the appeal of  text
+
+## Letters have a life and dignity of their own
+- well chosen words must have well chosen letters
+
+## There is a style beyond style
+- Typographic style is not about a fixed aesthetic but about the ability to work flexibly and intelligently across contexts, remaining graceful, inventive, and meaningful without becoming cliched or self-indulgent
+- Typography interprets writing much like performance interprets music, and while it can be used manipulatively its highest form is thoughtful, slow, and deserving of deep appreciation for the meaning and pleasure it provides
