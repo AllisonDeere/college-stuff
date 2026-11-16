@@ -39,3 +39,5 @@
 	- Hand vs. machine
 	- Organic vs. gemoetric
 	- Human body vs. abstract systems
+## Humanism
+- During the Renaissance, typoghraphy heavily influenced by the revival of classical Greek and Roman art
