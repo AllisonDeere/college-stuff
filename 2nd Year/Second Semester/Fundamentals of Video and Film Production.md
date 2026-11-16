@@ -18,7 +18,14 @@
 				- **Types of Directors**
 					- **Director-For-Hire**
 						- Hired by a production company/studio/producer to direct a specific film project. They are expected to execute the project's established creative direction while contributing their own interpretation and expertise.
-					- **Auteur**
+					- **Auteur Director**
+						- A filmmaker whose personal artistic vision, themes, and visual style are strongly reflected in their films. The term auteur comes from the French word for "author", emphasizing the director's role as a major creative force behind a film.
+					- **Hybrid Director**
+					- **Director of Photography/Cinematographer**
+						- Responsible for the overall photographic and visual appearance of a film.
+						- Translates film's creative vision into images through decisions of where to point the fucking camera
+						- lighting exposure movement and lenses too i guess
+					- 
 ### BTL Crew
 - Extras, Art Dept, Costume Dept, Production, etc.
 - 
