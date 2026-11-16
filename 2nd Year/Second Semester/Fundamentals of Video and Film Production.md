@@ -51,5 +51,9 @@
 	- **Production Assistants**
 	- **Continuity Department**
 	- **Script Supervisor**
+	- **Camera Department**
+		- **CamOp**
+		- **1st AC/Focus Puller**
+		- **2nd AC (Slate)**
 ## Post-Production Crew
 - Editors, Colorists, etc.
