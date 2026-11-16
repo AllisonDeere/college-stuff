@@ -46,5 +46,10 @@
 		- Oversees the day-to-day operations of the production. Works closely with the producer and other department heads to keep things organized.
 	- **1st AD**
 		- Oversees day-to-day filming schedule and manages on-set operations. Coordinates with the director, producer, and department heads to ensure that scenes are filmed efficiently and according to schedule. 
+	- **2nd AD**
+		- Assists the 1st AD.
+	- **Production Assistants**
+	- **Continuity Department**
+	- **Script Supervisor**
 ## Post-Production Crew
 - Editors, Colorists, etc.
