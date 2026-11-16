@@ -31,7 +31,13 @@
 						- **Principal Cast**
 							- Central Characters of the film.
 							- Lead, Supporting, and Co-Lead Actor/Actress
-						- **Minor S**
+						- **Minor Supporting Cast**
+						- **Bit Players**
+							- Performers who have very brief roles.
+						- **Extras (Background Actors)**
+						- **Stunt Performers**
+						- **Voice Actors**
+						- **Stand-Ins and Body Doubles**
 ### BTL Crew
 - Extras, Art Dept, Costume Dept, Production, etc.
 - 
