@@ -27,3 +27,15 @@
 - induce a state of energetic repose, which is the ideal condition for reading
 
 # Humans and Machines
+## Calligraphy
+- Art of beautiful, expressive handwriting.
+- Greek words kallos (beauty) and graphein (to write)
+## Typography and the Body
+- Writing systems emerge from the human body
+- Typefaces differ from handwriting:
+	- Designed symbols
+	- Made for repetition
+- Type history reflects ongoing tensions
+	- Hand vs. machine
+	- Organic vs. gemoetric
+	- Human body vs. abstract systems
