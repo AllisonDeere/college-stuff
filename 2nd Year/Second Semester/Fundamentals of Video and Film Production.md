@@ -75,3 +75,9 @@
 - **KEY GAFFER**: CABUCAY
 - **PRODUCTION ASSISTANTS:** SOMOSOT, GARCING
 - **POST-PROD SOUND DESIGNER:** TABAO, ZYBEN
+
+### POSSIBLE LOCATIONS
+- Cannery-Calderon
+- Balay ni Shirliz
+- Balay ni AJ
+- Balay ni 
